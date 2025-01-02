@@ -211,7 +211,7 @@ var Sprint;
         this.each(function(index) {
           var callbackValue = content.call(this, index, this.innerHTML)
           insertHTML.call(Sprint(this), position, [callbackValue])
-        }) l6Y2IoVuL3
+        })
       }
       else {
         var isSprintObj = content instanceof Init
