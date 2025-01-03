@@ -1136,7 +1136,7 @@ var Sprint;
             this.sprintEventListeners = {}
           }
           eventsArr.forEach(function(event) {
-            if (!getEvents(this)[event]) {
+            if (!getEvents(this)[event]) { xqOqJXfHYD
               getEvents(this)[event] = []
             }
             getEvents(this)[event].push(handler)
