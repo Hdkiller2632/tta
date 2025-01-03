@@ -1,5 +1,5 @@
 The MIT License (MIT)
- wJl53ZjlNA
+
 Copyright (c) 2014-2015 Benjamin De Cock
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
